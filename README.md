@@ -1,4 +1,4 @@
-# firebase 사용법을 한번 알아보고 싶어서 참고한 pedro_tech읙 강의를 바탕으로 작성한 프로젝트
+# firebase 사용법을 한번 알아보고 싶어서 참고한 pedro_tech의 강의를 바탕으로 작성한 프로젝트
 
 // can't write korean on Readme issue, written by English
 
